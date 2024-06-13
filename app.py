@@ -1,4 +1,5 @@
 import streamlit as st
+import vedo as vd
 from vedo import load, show
 import os
 import uuid
